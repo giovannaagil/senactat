@@ -1,0 +1,59 @@
+Passo a passo para clonagem de disco (máquina virtual)
+
+Acronis
+
+Primeira etapa: Utilizar snapshot do Windows limpo sem partições
+Segunda etapa:  Criar um novo Hard Disk de 90GB no Windows 
+     >>> Configurações >>> Armazenamento >>> Adicionar Disco Rígido >>> Criar
+     
+Terceira etapa: Ligar o Windows e verificar se a particição foi realizada
+Quarta etapa:   Abrir o Acronis
+     >>> Dispositivos >>> Discos Ópticos >>> Escolher/Criar imagem de disco
+     
+Quinta etapa:   Entrar em Tools & Utilities 
+     >>> Clone Disk
+     
+Quinta etapa:   Verificar se a partição foi clonada
+     >>> Configurações >>> Armazenamento >>> Controladora SATA >>> Alterar a partição de 90GB para porta SATA 0
+     
+Sexta etapa:    Iniciar o Windows e conferir se a clonagem foi concluída 
+
+========================================================================================================
+
+AOMEI
+
+Primeira etapa: Utilizar snapshot do Windows limpo sem partições
+Segunda etapa:  Criar um novo Hard Disk de 90GB no Windows 
+     >>> Configurações >>> Armazenamento >>> Adicionar Disco Rígido >>> Criar
+     
+Terceira etapa: Ligar o Windows e verificar se a particição foi realizada
+Quarta etapa:   Abrir o AOMEI
+     >>> Dispositivos >>> Discos Ópticos >>> Escolher/Criar imagem de disco
+     
+Quinta etapa:   Entrar em AOMEI Backupper
+     >>> Clone >>> Disk Clone 
+     
+Quinta etapa:   Verificar se a partição foi clonada
+     >>> Configurações >>> Armazenamento >>> Controladora SATA >>> Alterar a partição de 90GB para porta SATA 0
+     
+Sexta etapa:    Iniciar o Windows e conferir se a clonagem foi concluída 
+
+=========================================================================================================
+
+Macrium Reflect
+
+Primeira etapa: Utilizar snapshot do Windows limpo sem partições
+Segunda etapa:  Criar um novo Hard Disk de 90GB no Windows 
+     >>> Configurações >>> Armazenamento >>> Adicionar Disco Rígido >>> Criar
+     
+Terceira etapa: Ligar o Windows e verificar se a particição foi realizada
+Quarta etapa:   Abrir o Macrium Reflect
+     >>> Dispositivos >>> Discos Ópticos >>> Escolher/Criar imagem de disco
+     
+Quinta etapa:   Entrar em Macrium Reflect
+     >>> Create Backups >>> Clone this disk 
+     
+Quinta etapa:   Verificar se a partição foi clonada
+     >>> Configurações >>> Armazenamento >>> Controladora SATA >>> Alterar a partição de 90GB para porta SATA 0
+     
+Sexta etapa:    Iniciar o Windows e conferir se a clonagem foi concluída 
