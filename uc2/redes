@@ -49,7 +49,7 @@ Másc. = 255.255.0.0 - /16 (16 bits ativos)
 C = 192.168.0.0 -> 192.168.255.255 - Redes Pequenas
 Másc. = 255.255.255.0 - /24 (24bits ativos)
 
-Gatherway = seu objetivo é criar a comunicação entre as redes (TRADUTOR)
+Gateway = seu objetivo é criar a comunicação entre as redes (TRADUTOR)
 
 DNS - SERVIDORES DE NOME DE DOMÍNIO
 
