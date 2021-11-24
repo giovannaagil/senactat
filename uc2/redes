@@ -58,3 +58,7 @@ Reponsável por traduzir nome para IP e vice e versa
 O IP e as Masks tem que ser iguais
 
 Pesquisar --- VLSN
+
+Sempre manter =
+IP Estático - tudo que oferece serviço: roteador, impressora, switch...
+IP Dinâmico (Automático) - tudo que recebe serviço:smartfhone, computador, notebook, tv...
