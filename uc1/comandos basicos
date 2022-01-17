@@ -1,0 +1,39 @@
+Anotações feitas por um iniciante:
+==========================================================================================
+“ls”: ls (list): Listar o conteúdo de um diretório
+
+“cd”: (Mudar o diretório atual) 
+
+“clear” : limpa a tela toda. Ou “ctrl+L”.
+
+Teclas para cima ou para baixo: mostra as últimas coisas escritas.
+
+“sudo apt update”: sudo (super user do) apt (advanced package tool) update: faz update como usuário root. Atualiza a lista de repositórios do sistema. O sistema vai verificar todos repositórios e informar se podem ser atualizados.  “man apt”: man (manual): mostra o manual de qualquer comando. Nesse caso manual do apt.
+
+“apt -- help”: mostra os comandos mais utilizados.
+
+“apt search” : pesquisa nas descrições do pacote.
+
+“sudo apt install <nome do aplicativo>”: precisa de sudo, porque vai modificar o sistema. 
+Tem dois tipos de upgrade. “sudo apt upgrade”: instala e atualiza pacotes de upgrade, instalando novos pacotes e atualizando os que já existem. “sudo apt full-upgrade”: atualiza o sistema removendo, instalando e atualizando pacotes.
+“apt-cache depends <nome do programa>”: mostra as dependências do aplicativo.
+
+“!!”: copia e cola o último comando escrito.
+
+Para instalar um arquivo .deb: Baixa o instalador, aperta “ls”: para ver seus diretórios. Depois “cd downloads”, visto que vai estar na pasta Downloads. “ls”: para ver o que tem lá. Vai ter as aplicações lá, onde vai estar o instalador. Utiliza “sudo dpkg -i <endereço do instalador>: dpkg (instalador de pacotes) -i ( install) endereço (pode só colocar o início e apertar tab, que vai completar automaticamente, visto que não só tem um diretório com o mesmo início). Isso fará a instalação. 
+
+“man: (Abre o manual do Linux)
+
+“cp”: (Copia arquivos de um diretório para outro)
+
+“mv”: (Mover arquivos de um diretório para outro ou renomear arquivos e diretórios)
+
+“rm”: (Remover arquivos ou diretório - EXCLUIR)
+
+“rm -r”: (Apaga diretório)
+
+“pwd”: (Mostrar o diretótio atual)
+
+“touch”: (Criar arquivos de texto vazios, ou alterar seu timestamp)
+
+“nano”: (Editores de texto no terminal)

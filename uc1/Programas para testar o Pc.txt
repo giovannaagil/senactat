@@ -1,0 +1,59 @@
+Programas para testes do PC
+
+- Passmark
+Descrição do app:
+ O PassMark Performance Test é uma ferramenta de benchmark que tem como objetivo avaliar o desempenho geral do computador. Além de determinar com precisão a capacidade do hardware usado, o programa serve como uma ferramenta para comparar máquinas semelhantes e determinar qual delas é a melhor.
+Link para download:
+https://www.passmark.com/products/performancetest/download.php
+
+- Aida 64 Extreme
+Descrição do app:
+ O AIDA64 é um vasculhador de informações de hardware pra Windows e Android. O programa mostra detalhes sobre os componentes de sistema, avalia o desempenho e aponta quais são os itens instalados em um computador. ... O AIDA64 coloca nas mãos do usuário muitas informações úteis sobre o hardware que ele usa.
+Link para download:
+https://www.aida64.com/downloads
+
+- Cinebench R23
+Descrição do app: 
+Cinebench R23, programa que mede a performance de computadores equipados com processadores e placas de vídeo através de renderização de imagem.
+Link para download:
+https://www.maxon.net/en/downloads/cinebench-r23-downloads
+
+- IPDT
+Descrição do app:
+  Programa da intel Para testar CPU (se não falha a minha memoria)
+Link para download:
+https://www.intel.com/content/www/us/en/download/15951/intel-processor-diagnostic-tool.html
+
+- Unigine Benchmark
+Descrição do app: 
+Unigine Heaven Benchmark é um serviço para avaliar o desempenho de computadores, disponível gratuitamente para Windows, Mac, e Linux. Este programa é capaz de identificar toda a potência gráfica de uma máquina, e mesmo a sua versão gratuita realiza testes bem completos e interessantes
+Link para download:
+NÃO ENCONTREI
+
+- Diag (Windows)
+Descrição do app: 
+O Windows Memory Diagnostic é um software leve e gratuito que faz testes e procura na memória RAM todos os erros ou falhas relacionadas ao hardware. ... O principal objetivo do programa é indicar ao usuário se os problemas do windows, como travar, congelar a imagem e demorar na hora de executar, são problemas de hardware
+
+- HWMONITOR
+Descrição do app: 
+O CPUID HWMonitor é um aplicativo gratuito para PCs com Windows que permite verificar o desempenho do computador. O programa exibe informações como a voltagem e temperatura da CPU, utilização da memória RAM e do processador da placa de vídeo, além de dados sobre a bateria, no caso de notebooks.
+Link para download:
+https://www.cpuid.com/softwares/hwmonitor.html
+
+- TestMem5 
+Descrição do app: 
+pode detectar erros na memória RAM e testar o grau de confiabilidade da RAM de qualquer computador 
+Link para download:
+http://TestMem.tz.ru/tm5.rar
+
+- PCMark 10
+Descrição do app: 
+O PCMark utiliza simulações das tarefas mais comuns no dia a dia dos utilizadores de um PC, como navegação na Web, videochamadas, escrita de textos e utilização de folhas de cálculo, edição de fotos e vídeo e ainda jogos.
+Link para download:
+https://www.guru3d.com/files-details/pcmark-10-download.html
+
+- Corona Benchmark
+Descrição do app: 
+Teste o desempenho do seu computador usando o Corona Benchmark.(Isso está no site deles kkk)
+Link para download:
+https://corona-renderer.com/benchmark
