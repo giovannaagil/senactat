@@ -1,0 +1,16 @@
+Atividade 16\11\21
+
+primeira etapa: copiar as ISO's da rede:      
+                T:\Publica\!!!!!!RobsonVaamonde
+                Para: C\ISO
+                  linuxmint-20.2-cinnamon-64bit.iso
+                  windows-10-21h1-PT-BR-32Bits-64Bits.iso
+                  clonezila-live-20210817-hirsute-amd64.iso
+                  
+ Segunda etapa: Criar a Máquina Virtual do Windowa 10
+                Memória Ram: 409MB, HD: 50GB, Rede: Interna
+                
+ Terceira Etapa: Instalar o Windows 10 Pro, Instalar convidados
+                 so VirtualBox e tirar um Snapshot
+                 
+ Quarta Etapa: Adicionae um Hard Disk de: 60GB,(esperar para o procedimento de clonagem gost).
